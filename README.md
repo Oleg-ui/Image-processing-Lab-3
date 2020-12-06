@@ -15,3 +15,7 @@
 ## Поиск прямых (зависит от порога и регулируется в реальном времени: кнопки P->+5 и M->-5 )
 ![](https://cdn.discordapp.com/attachments/765592904194326548/785192740253466624/unknown.png)
 ![](https://cdn.discordapp.com/attachments/765592904194326548/785193007351463956/unknown.png)
+## Поиск окружностей
+![](https://cdn.discordapp.com/attachments/765592904194326548/785193880252973076/unknown.png)
+В консоли выводится информация о количестве кругов, координатах их центров и радиусы
+![](https://cdn.discordapp.com/attachments/765592904194326548/785194244461428786/unknown.png)
