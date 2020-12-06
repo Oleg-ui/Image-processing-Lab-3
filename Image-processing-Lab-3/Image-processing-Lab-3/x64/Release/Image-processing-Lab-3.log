@@ -1,0 +1,35 @@
+﻿  hough.cpp
+C:\Users\Oleg\source\repos\Image-processing-Lab-3\Image-processing-Lab-3\hough.cpp(30,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Oleg\source\repos\Image-processing-Lab-3\Image-processing-Lab-3\hough.cpp(97,104): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Oleg\source\repos\Image-processing-Lab-3\Image-processing-Lab-3\hough.cpp(99,104): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Oleg\source\repos\Image-processing-Lab-3\Image-processing-Lab-3\hough.cpp(105,104): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Oleg\source\repos\Image-processing-Lab-3\Image-processing-Lab-3\hough.cpp(107,104): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  hough_circle.cpp
+C:\Users\Oleg\source\repos\Image-processing-Lab-3\Image-processing-Lab-3\hough_circle.cpp(47,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Oleg\source\repos\Image-processing-Lab-3\Image-processing-Lab-3\hough_circle.cpp(48,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Source.cpp
+C:\Users\Oleg\source\repos\Image-processing-Lab-3\Image-processing-Lab-3\Source.cpp(36,29): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Oleg\source\repos\Image-processing-Lab-3\Image-processing-Lab-3\Source.cpp(119,43): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Oleg\source\repos\Image-processing-Lab-3\Image-processing-Lab-3\Source.cpp(124,55): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Oleg\source\repos\Image-processing-Lab-3\Image-processing-Lab-3\Source.cpp(262,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Oleg\source\repos\Image-processing-Lab-3\Image-processing-Lab-3\Source.cpp(313,20): warning C4244: инициализация: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\Oleg\source\repos\Image-processing-Lab-3\Image-processing-Lab-3\Source.cpp(352,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Oleg\source\repos\Image-processing-Lab-3\Image-processing-Lab-3\Source.cpp(371,21): warning C4244: инициализация: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\Oleg\source\repos\Image-processing-Lab-3\Image-processing-Lab-3\Source.cpp(386,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 292 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Image-processing-Lab-3.vcxproj -> C:\Users\Oleg\source\repos\Image-processing-Lab-3\x64\Release\Image-processing-Lab-3.exe
